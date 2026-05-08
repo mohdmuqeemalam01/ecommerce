@@ -12,7 +12,7 @@ export default function Home() {
       <Homep/>
     <div className="flex  justify-center gap-50 ">
      
-      <a href="/signinsignup">
+      <a className="bg-green text-white p-2" href="/signinsignup">
         Login Page
       </a>
       <a href="/contact">
