@@ -12,9 +12,9 @@ export default function Home() {
       <Homep/>
     <div className="flex  justify-center gap-50 ">
      
-      <a className="bg-green text-white p-2" href="/signinsignup">
+      <button className="bg-green  text-white p-2" href="/signinsignup">
         Login Page
-      </a>
+      </button>
       <a href="/contact">
        contact page
       </a>
